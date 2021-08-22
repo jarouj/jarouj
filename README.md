@@ -5,7 +5,7 @@
 - 🎓 I'm graduated in System Analysis (Estacio 2021)
 - 🎮 I'm a gamer (pc)
 - 🔧 I'm adept at diy
-- 🔭 I’m currently working [@Philips](https://github.com/Philips)
+- 🔭 I’m currently working [Philips](https://www.linkedin.com/company/philips/mycompany/)
 - 🌱 Learning Front-end.
 - 👯 I’m looking to collaborate on open-source.
 - 💻 Infra
