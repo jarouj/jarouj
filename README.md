@@ -1,6 +1,6 @@
 ### Hello World! I'm Felipe - aka [jarouj][website] 👋
 
-## I'm a Developer, Gamer!!
+## I'm a Developer and Gamer!!
 
 - 🎓 I'm graduated in System Analysis (Estacio 2021)
 - 🎮 I'm a gamer (pc)
