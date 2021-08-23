@@ -2,13 +2,15 @@
 
 ## I'm a Developer and Gamer!!
 
-- 🎓 I'm graduated in System Analysis (Estacio 2021)
-- 🎮 I'm a gamer (pc)
-- 🔧 I'm adept at diy
-- 🔭 I’m currently working [Philips](https://www.linkedin.com/company/philips/mycompany/)
+- 🎓 I'm graduated in System Analysis (Estacio 2021).
+- 💻 I have some experience in infrastructure.
+- 📝 I love learning new things. 
+- 🎮 I'm a gamer.
+- 🔧 I'm adept at diy.
+- 🔭 I’m currently working [Philips](https://www.linkedin.com/company/philips/mycompany/).
 - 🌱 Learning Front-end.
 - 👯 I’m looking to collaborate on open-source.
-- 💻 Infra
+
 ---
 
 ### Sourcerer Profile
