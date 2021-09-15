@@ -13,16 +13,6 @@
 
 ---
 
-### Sourcerer Profile
-
-<br />
-
-[<img align="left" alt="vithort | Sourcerer" width="22px" title="Sourcerer Profile" src="https://avatars2.githubusercontent.com/u/29913589?s=280&v=4" />https://sourcerer.io/jarouj](https://sourcerer.io/jarouj)
-
-<br />
-
----
-
 ### Connect with me:
 
 [<img align="left" alt="jarouj | Site" width="22px" title="Site" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
@@ -33,8 +23,6 @@
 ---
 
 ### Languages and Tools:
-
-<img align="left" alt="Android" title="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
 <img align="left" alt="Angular" title="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
 
@@ -65,8 +53,6 @@
 <img align="left" alt="HTML" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="Ionic" title="Ionic" width="26px" src="https://ionicframework.com/img/meta/logo.png" />
-
-<img align="left" alt="iOS" title="iOS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png" />
 
 <img align="left" alt="Java" title="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
@@ -101,8 +87,6 @@
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <img align="left" alt="Python" title="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-
-<img align="left" alt="Raspberry Pi" title="Raspberry Pi" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
 
 <img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
@@ -146,7 +130,7 @@
 
 ### Certificates
 
-
+![DevOps Essentials Professional Certificate (DEPC)](https://certificates.easy-lms.com/exam/session/4e2f4be0-34ab-48a0-b9b1-b307eaaf294c)
 
 ---
 
