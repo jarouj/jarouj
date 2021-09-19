@@ -122,9 +122,6 @@
 
 ![jarouj's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarouj&layout=compact&count_private=true)
 
-### WakaTime Stats
-
-![jarouj's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jarouj)
 
 ---
 
@@ -134,17 +131,6 @@
 
 ---
 
-<details>
-  <summary>📋 Source</summary>
-  
-<!--START_SECTION:activity-->
-###### [💾 codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-
-###### [💾 gautamkrishnar](https://github.com/gautamkrishnar)
-
-###### [💾 anuraghazra](https://github.com/anuraghazra)
-
-###### [💾 emoji-markup](https://gist.github.com/rxaviers/7360908#file-gistfile1-md)
 
 <!--END_SECTION:activity-->
 
